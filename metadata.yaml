@@ -1,0 +1,31 @@
+_repo: Northern-Nut-Growers-Association-Report-of-the-Proceedings-at-the-Forty-Second-Annual-Meeting__21516
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Northern Nut Growers Association
+    alias: Association, Northern Nut Growers
+    gutenberg_agent_id: '9596'
+    url: http://www.gutenberg.org/2009/agents/9596
+description: ''
+gutenberg_bookshelf: Northern Nut Growers Association
+gutenberg_issued: '2007-05-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21516'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Nuts -- Periodicals'
+- !lcsh 'Northern Nut Growers Association -- Periodicals'
+- !lcsh 'Nut trees -- Periodicals'
+- !lcc 'SB'
+title: 'Northern Nut Growers Association Report of the Proceedings at the Forty-Second
+  Annual Meeting
+
+  Urbana, Illinois, August 28, 29 and 30, 1951'
+url: http://www.gutenberg.org/ebooks/21516
